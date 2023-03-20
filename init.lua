@@ -83,7 +83,8 @@ require("lazy").setup({
         other_win_hl_color = '#e35e4f',
       })
     end,
-  }
+  },
+  "airblade/vim-gitgutter",
   -- {
   --   's1n7ax/nvim-window-picker',
     -- config = function()
